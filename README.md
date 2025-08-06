@@ -3,10 +3,10 @@
 # 📊 HR Analytics Dashboard – Tableau Project
 
 This project is an end-to-end HR analytics dashboard built using Tableau. It visualizes key human resources metrics to help stakeholders monitor performance, attrition, diversity, and more.
-
+```
 ---
-![Dashboard Screenshot 1](snippets/HR _Summary.png)
-![Dashboard Screenshot 2](snippets/HR _Details.png)
+![Dashboard Screenshot 1](Snippets/HR_Summary.png)
+![Dashboard Screenshot 2](Snippets/HR_Details.png)
 ## 📁 Project Structure
 
 ```
